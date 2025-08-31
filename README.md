@@ -110,18 +110,32 @@ High-level integrator handoff:
 ---
 
 ## Artifacts
-*(upload your files/screenshots and link them here)*
+## Artifacts
 
-- [NH Survey Notes](artifacts/nh-survey.pdf)  
-- [NJ Survey Notes](artifacts/nj-survey.pdf)  
-- [NK Survey Notes](artifacts/nk-survey.pdf)  
-- [NR Survey Notes](artifacts/nr-survey.pdf)  
-- [NL Survey Notes](artifacts/nl-survey.pdf)  
-- [NN Survey Notes](artifacts/nn-survey.pdf)  
-- [Predictive Design Map](artifacts/predictive-design.png)  
-- [AP Channel/Power Plan](artifacts/channel-plan.png)  
-- [Validation Results (Heatmaps)](artifacts/validation.pdf)  
-- [Bill of Materials](artifacts/BoM.xlsx)  
+### 📍 Block Maps (Phase 1 – Site Survey)
+- [Area – Block Red (NH)](Area-%20Block%20Red%20-%20NH.png)
+- [Area – Block Green (NJ)](Area-%20Block%20Green%20-%20NJ.png)
+- [Area – Block Purple (NK)](Area-%20Block%20Purple%20-%20NK.png)
+- [Area – Block Pink (NR)](Area-%20Block%20Pink%20-%20NR.png)
+- [Area – Block Orange (NL)](Area-%20Block%20Orange%20-%20NL.png)
+- [Area – Block Blue (NN)](Area-%20Block%20Blue%20-%20NN.png)
+
+### 📶 Heatmap Coverage (Phase 2 – Predictive Design)
+- [Heatmap – Block Red (NH)](heat%20map%20coverage-%20Block%20Red.png)
+- [Heatmap – Block Green (NJ)](heat%20map%20coverage-%20Block%20green.png)
+- [Heatmap – Block Purple (NK)](heat%20map%20coverage-%20Block%20purple.png)
+- [Heatmap – Block Pink (NR)](heat%20map%20coverage-%20Block%20pink.png)
+- [Heatmap – Block Orange (NL)](heat%20map%20coverage-%20Block%20orange.png)
+- [Heatmap – Block Blue (NN)](heat%20map%20coverage-%20Block%20blue.png)
+
+### ✅ Validation Survey Results (Phase 3 – Post Deployment)
+- [Validation – NH](validation%20survey%20area%20NH.png)
+- [Validation – NJ](validation%20survey%20area%20NJ.png)
+- [Validation – NK](validation%20survey%20area%20NK.png)
+- [Validation – NL](validation%20survey%20area%20NL.png)
+- [Validation – NN](validation%20survey%20area%20NN.png)
+- [Validation – NR](validation%20survey%20area%20NR.png)
+
 
 ---
 
